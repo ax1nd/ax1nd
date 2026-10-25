@@ -14,16 +14,6 @@
 
 <br>
 
-## ▸ PROJECTS.DAT
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**project-one**](https://github.com/YOUR_USERNAME/project-one) | One-line description | `Python` `FastAPI` |
-| [**project-two**](https://github.com/YOUR_USERNAME/project-two) | One-line description | `React` `TypeScript` |
-| [**project-three**](https://github.com/YOUR_USERNAME/project-three) | One-line description | `Python` `scikit-learn` |
-
-<br>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-ARVIND%20N-33ff66?style=for-the-badge&logo=linkedin&logoColor=33ff66&labelColor=000000)](https://www.linkedin.com/in/arvind-n-13673530a/)
